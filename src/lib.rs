@@ -55,7 +55,7 @@ impl Markov {
 }
 
 #[pymodule]
-fn markov(_py: Python, m: &PyModule) -> PyResult<()> {
+fn rsmarkov(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Markov>()?;
     Ok(())
 }
