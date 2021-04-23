@@ -1,1 +1,1 @@
-# rusty_python_markov
+# rsmarkov

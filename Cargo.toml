@@ -1,7 +1,7 @@
 [package]
-name = "rusty_snake_markov"
+name = "rsmarkov"
 version = "0.1.1"
-authors = ["zomatree <angelokontaxis@hotmail.com>"]
+authors = ["bijij <josh@josh-is.gay>"]
 edition = "2018"
 include = ["src/lib.rs", "README.md"]
 
@@ -24,7 +24,7 @@ classifier = [
 ]
 
 [lib]
-name = "rusty_snake_markov"
+name = "rsmarkov"
 crate-type = ["cdylib"]
 
 [profile.release]
