@@ -3,7 +3,7 @@ name = "rsmarkov"
 version = "0.1.2"
 authors = ["bijij <josh@josh-is.gay>"]
 edition = "2018"
-include = ["src/lib.rs", "README.md"]
+include = ["src/lib.rs", "README.md", "pyproject.toml"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
